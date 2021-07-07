@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jul  1 10:22:17 2021
+Created on Thu Jul  1 09:21:09 2021
 @author: Raihan Ihza Pravisya
 NIM    : 20083000149
 """
